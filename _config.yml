@@ -12,11 +12,11 @@ description: I am a professor of Computer Science in Tunis, Tunisia, soon to be 
 github_username: chiraz
 
 # Email and twitter are optional:
-email:chiraz.benabdelkader@gmail.com
-twitter_username:DataSciGirl1
+email: chiraz.benabdelkader@gmail.com
+twitter_username: DataSciGirl1
 
 # Set this to true to get LaTeX math equation support
-use_math:True
+use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
