@@ -23,18 +23,19 @@ If you would like to contribute or add a new listing, please either send a git p
 
 ## Publicly Available Corpora and Lexicons
 
-- The MADAR Arabic Dialect Corpus and Lexicon, H. Bouamor et al., http://nlp.qatar.cmu.edu/madar/
+- The MADAR Arabic Dialect Corpus and Lexicon, H. Bouamor et al., [link](http://nlp.qatar.cmu.edu/madar/)
 
     		The latest version of the lexicon is available for browsing online.
 
 
-- CODA Seed Lexicon, https://sites.google.com/a/nyu.edu/coda/dialect-specific
+- CODA Seed Lexicon, [link](https://sites.google.com/a/nyu.edu/coda/dialect-specific)
 
 
-- Tunisian Arabic Corpus, by Karen McNeil and Miled Faiza, http://www.tunisiya.org
+- Tunisian Arabic Corpus, by Karen McNeil and Miled Faiza, [link](http://www.tunisiya.org)
 
 		There are currently 2,006 texts in the corpus, comprising 881,964 words.
-		The main categories currently included are 
+		The main categories currently included are :
+		
 		1) traditional written sources (folklore, songs, folk poetry, proverb collections, screenplays)
 		2) new written sources (blogs, email, Facebook, forum postings) -- currently the dominant source
 		3) transcribed audio (e.g. from radio programming)."
@@ -42,18 +43,19 @@ If you would like to contribute or add a new listing, please either send a git p
 		searches and view search results in context, with access to the full text. 
 
 
-- DID-LREC-2018: Training and test data for the Arabic dialect identification (DID) shared task at LREC 2018.
+- DID-LREC-2018: Training and test data for the Arabic dialect identification (DID) shared task at LREC 2018.[link](https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask)
 
-https://www.lancaster.ac.uk/staff/elhaj/corpora_files/ArabicDialectsDataset.zip
-https://www.lancaster.ac.uk/staff/elhaj/corpora.htm
-https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask
+		Related links:
+		https://www.lancaster.ac.uk/staff/elhaj/corpora_files/ArabicDialectsDataset.zip
+		https://www.lancaster.ac.uk/staff/elhaj/corpora.htm
 
- -- dataset used in the paper "Arabic Dialect Identification in the Context of Bivalency and Code-Switching", by M. El-Haj, P. Rayson, and M. Aboelezz, LREC 2018.
- -- combines data from AOC corpus (Omar Zaidan) and tunisiya.org, both referenced in this section.
- -- added extra manual annotated information for each individual word.
+		This dataset was used in the paper "Arabic Dialect Identification in the Context of Bivalency and Code-Switching",
+		by M. El-Haj, P. Rayson, and M. Aboelezz, LREC 2018.
+		Combines data from AOC corpus (Omar Zaidan) and tunisiya.org, both referenced in this section.
+		Added extra manual annotated information for each individual word.
 
 
-- Various small lexicons contributed by N. Karmani Ben Moussa as part of her PhD thesis work, last updated August 2016, https://github.com/NadiaBMKarmani
+- Various small lexicons contributed by N. Karmani Ben Moussa as part of her PhD thesis work, last updated August 2016, [link](https://github.com/NadiaBMKarmani)
 
 - AOC: Arabic online commentary dataset by Omar Zaidan, last updated August 2012, https://github.com/sjeblee/AOC
 
@@ -62,7 +64,7 @@ https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask
 	  arguably more "interesting", which is why we call this the *commentary* dataset,
 	  but the articles themselves are also included.
 
-- TSAC: Tunisian sentiment analysis corpus, https://github.com/fbougares/TSAC
+- TSAC: Tunisian sentiment analysis corpus, [link](https://github.com/fbougares/TSAC)
 
 		About 17k user comments manually annotated to positive and negative polarities. 
 		This corpus is collected from Facebook users comments written on official pages 
@@ -75,43 +77,43 @@ https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask
 
 ### Open-source
 
-- FARASA toolkit, http://qatsdemo.cloudapp.net/farasa/
+- FARASA toolkit, [link](http://qatsdemo.cloudapp.net/farasa/)
 
 		Farasa (which means “insight” in Arabic), is a fast and accurate text processing toolkit for Arabic text. 
-		Farasa consists of the segmentation/tokenization module, POS tagger, Arabic text Diacritizer, and Dependency Parser. 
-		We measure the performance of the segmenter in terms of accuracy and efficiency, in two NLP tasks, namely Machine Translation (MT) 
-		and Information Retrieval (IR). Farasa outperforms or equalizes state-of-the-art Arabic segmenters (Stanford and MADAMIRA), 
+		Farasa consists of the segmentation/tokenization module, POS tagger, Arabic text Diacritizer, 
+		and Dependency Parser. Measure the performance of the segmenter in terms of accuracy and efficiency, 
+		in two NLP tasks, namely Machine Translation (MT) and Information Retrieval (IR). 
+		Farasa outperforms or equalizes state-of-the-art Arabic segmenters (Stanford and MADAMIRA), 
 		while being more than one order of magnitude faster.
 
 
 - BAMA morphological analyzer
 
-- CODA (Conventional Orthography for Dialectal Arabic), https://sites.google.com/a/nyu.edu/coda/
+- CODA (Conventional Orthography for Dialectal Arabic), [link](https://sites.google.com/a/nyu.edu/coda/)
 
 ### Free online demo-only tools
 
-- ADIDA: Automatic Dialect Identification for Arabic, https://adida.abudhabi.nyu.edu/
+- ADIDA: Automatic Dialect Identification for Arabic, [link](https://adida.abudhabi.nyu.edu/)
 
-		This interface is a demo of the MADAR project dialect identification system developed by Salameh, Bouamor and Habash (2018).
-		The system is able to distinguish amongst 25 cities (from Rabat to Muscat) in addition to Modern Standard Arabic.
-		To use the demo enter text in Standard or Dialectal Arabic. The cities and regions that our system identifies will be lit up.
+		This interface is a demo of the MADAR project dialect identification system developed 
+		by Salameh, Bouamor and Habash (2018).
+		The system is able to distinguish amongst 25 cities (from Rabat to Muscat) in addition 
+		to Modern Standard Arabic.
 		The ADIDA web interface is described in the paper by Obeid, Salameh, Bouamor and Habash (2019).
 
-- Farasa demo version, http://qatsdemo.cloudapp.net/farasa/demo.html
+- Farasa demo version, [link](http://qatsdemo.cloudapp.net/farasa/demo.html)
 
 
 ### Commercial tools & resources
 
-- Ramitechs (http://www.ramitechs.com/) , a company that creates and annotates several types of corpora and lexicons using expert linguists.
-
-
+- [Ramitechs](http://www.ramitechs.com/) is a company that creates and annotates several types of corpora and lexicons using expert linguists.
 
 ## Scientific Literature (Papers, Articles, Books)
 
 
 ### Books
 
-- N. Habash, "Introduction to Arabic Natural Language Processing", https://www.morganclaypool.com/doi/abs/10.2200/s00277ed1v01y201008hlt010, 2010.
+- N. Habash, "Introduction to Arabic Natural Language Processing", 2010. [link]( https://www.morganclaypool.com/doi/abs/10.2200/s00277ed1v01y201008hlt010).
 
 		This book provides system developers and researchers in natural language processing and computational 
 		linguistics with the necessary background information for working with the Arabic language.
@@ -120,7 +122,7 @@ https://github.com/drelhaj/ArabicDialects/tree/master/ArabicSharedTask
 ### Survey papers
 
 - I. Guellil, H. Saadane, F. Azouaou, B. Gueni, and D. Nouvel, "Arabic natural language processing: An overview", In ArXiv, 2019. 
-URL: https://arxiv.org/ftp/arxiv/papers/1903/1903.02784.pdf
+[link](https://arxiv.org/ftp/arxiv/papers/1903/1903.02784.pdf)
 
 - A. Mekki, I. Zribi, M. Ellouze, and L. Hadrich Belguith, "Critical description of TA linguistic resources",
 In The 4th International Conference on Arabic Computational Linguistics (ACLing 2018), 2018.
@@ -134,8 +136,7 @@ In The 4th International Conference on Arabic Computational Linguistics (ACLing 
 
 - J. Younes, H. Achour, E. Souissi, and  A. Ferchichi, "Survey on Corpora Availability for the Tunisian Dialect Automatic Processing",
 In JCCO Joint International Conference on ICT in Education and Training, International Conference on Computing in Arabic, 
-   and International Conference on Geocomputing (JCCO: TICET-ICCA-GECO), 2018.
-URL: https://ieeexplore.ieee.org/document/8726213
+   and International Conference on Geocomputing (JCCO: TICET-ICCA-GECO), 2018. [link](https://ieeexplore.ieee.org/document/8726213)
 
 	Abstract: The language study and automatic processing require the availability of large 
 	raw and annotated corpora. Collecting data and constructing such language resources are 
@@ -152,8 +153,7 @@ in International Conference on Natural Language, Signal and Speech Processing (I
 
 	Keywords: Arabic dialect, Maghrebi Arabic dialects, Tunisian Arabic, Algerian Arabic, Moroccan Arabic, survey paper
 
-- Wajdi Zaghouani, "Critical Survey of the Freely Available Arabic Corpora", arXiv, 2017
-URL: https://arxiv.org/ftp/arxiv/papers/1702/1702.07835.pdf
+- Wajdi Zaghouani, "Critical Survey of the Freely Available Arabic Corpora", arXiv, 2017. [link]( https://arxiv.org/ftp/arxiv/papers/1702/1702.07835.pdf)
 
 - Abdulhadi Shoufan and Sumaya Al-Ameri, "Natural Language Processing for Dialectical Arabic: A Survey", 
 in Proceedings of the Second Workshop on Arabic Natural Language Processing, pages 36–48, 2015
@@ -181,8 +181,7 @@ In Proceedings of the International Conference on Language Resources and Evaluat
 In Proceedings of the International Conference on Language Resources and Evaluation (LREC), 2018.
 
 -  N. Karmani Ben Moussa, H. Soussou ; A. M. Alimi, "Tunisian Arabic aeb Wordnet: Current State and Future Extensions",
-In First International Conference on Arabic Computational Linguistics (ACLing), 2015.
-URL: https://ieeexplore.ieee.org/abstract/document/7422271
+In First International Conference on Arabic Computational Linguistics (ACLing), 2015. [link](https://ieeexplore.ieee.org/abstract/document/7422271)
 
 - J. Younes and E. Souissi, "A quantitative view of Tunisian dialect electronic writing", 2015.
 
@@ -206,8 +205,7 @@ In Proceedings of the 1st International Workshop on Natural Language Processing 
 	automatically. From the built corpora they drew a picture of the main features related to the Tunisian dialect.
 
 - A. Masmoudi, Y. Esteve, M. E. Khmekhem, F. Bougares, and L. H. Belguith, “Phonetic tool for the Tunisian Arabic,” 
-In Spoken Language Technologies for Under-Resourced Languages, 2014.
-URL: https://link.springer.com/chapter/10.1007%2F978-3-319-24800-4_1
+In Spoken Language Technologies for Under-Resourced Languages, 2014. [link](https://link.springer.com/chapter/10.1007%2F978-3-319-24800-4_1)
 
 	Tunisian dialect Language identification Corpus construction Dictionary construction Social web textual contents
 	The authors generated automatically phonetic dictionaries for the Tunisian dialect by using a rules-based approach. 
@@ -258,7 +256,7 @@ In Journal of King Saud University - Computer and Information Sciences, vol. 29,
 
 - N. B. M. Karmani, H. Soussou and A. M. Alimi, "Intelligent Tunisian Arabic morphological analyzer,"
 In IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA), Agadir, 2016, pp. 1-8, 2016.
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7945666&isnumber=7945610
+[link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7945666&isnumber=7945610)
 
 	Keywords: expert systems;information retrieval;Internet;natural language processing;intelligent Tunisian Arabic morphological analyzer;Internet content;financial environments;social environments;political environments;economic environments;Web 2.0 monitoring;natural language processing tools;Tunisian Arabic processing tools;Tunisian Internet users;words morphemes;grammatical labels;expert system;aebWordNet;Tunisian Arabic lexical dictionary;morphemes decomposition;morphemes labeling;Morphology;Dictionaries;Web 2.0;Expert systems;Labeling;Buildings;Arabic dialect;Tunisian Arabic;Natural language processing;Morphological analyzer;Tokenizer;Artificial Intelligence;Expert system;aebWordNet;Tunisian Arabic lexical dictionary,
 
@@ -406,22 +404,22 @@ In Research in Computing Science, vol. 90, pp. 123–135, 2015.
 
 ## Web Articles & Links
 
-- Derja: Tunisian Association of the Tunisian Dialect, http://www.bettounsi.com/index.html
+- Derja: Tunisian Association of the Tunisian Dialect. [link](http://www.bettounsi.com/index.html)
 
-- Tunisian Arabic, Wikipedia entry, https://en.wikipedia.org/wiki/Tunisian_Arabic
+- Tunisian Arabic, Wikipedia entry. [link](https://en.wikipedia.org/wiki/Tunisian_Arabic)
 
-- Tunisian Arabic, by Turki, H., Zribi, R., Gibson, M., & Adel, E. , Wikimedia Foundation,  https://www.academia.edu/28846187/Tunisian_Arabic, 2015.
+- Tunisian Arabic, by Turki, H., Zribi, R., Gibson, M., & Adel, E. , Wikimedia Foundation, 2015. [link](https://www.academia.edu/28846187/Tunisian_Arabic)
 
-- Tunisian Arabic: A Wonderful Mosaic of Dialects, by Lilia Khachrou, https://lingualism.com/arabic/tunisian-arabic/tunisian-arabic-wonderful-mosaic-dialects/
+- Tunisian Arabic: A Wonderful Mosaic of Dialects, by Lilia Khachrou. [link](https://lingualism.com/arabic/tunisian-arabic/tunisian-arabic-wonderful-mosaic-dialects/)
 
 
 ## Academic Research Groups & Labs
 
 - ANLP Research group, MIRACL, University of Sfax, Tunisia.
 
-- REGIM Lab, National Engineering School of Sfax (ENIS), University of Sfax, Tunisia.  http://www.regim.org/
+- REGIM Lab, National Engineering School of Sfax (ENIS), University of Sfax, Tunisia. [link](http://www.regim.org/)
 
-- MADAR Project, NYU-AD, CMU-Q  https://camel.abudhabi.nyu.edu/madar/
+- MADAR Project, NYU-AD, CMU-Q. [link](https://camel.abudhabi.nyu.edu/madar/)
 
 		MADAR (Multi-Arabic Dialect Applications and Resources) is a three-year joint project among the NLP Group 
 		at Carnegie Mellon University in Qatar (CMU-Q), the Computational Approaches to Modeling Language (CAMEL) 
