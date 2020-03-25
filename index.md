@@ -1,1 +1,3 @@
-Hello and welcome to my blog. I am a professor of Computer Science in Tunis, Tunisia, and a data scientist in training. I blog about everything data science from technical topics to career advise.
+Hello and welcome to my blog! 
+
+![](/images/We_Can_Do_It__Rosie_the_Riveter.jpg "Rosie the Riveter")
