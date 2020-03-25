@@ -55,9 +55,9 @@ If you would like to contribute or add a new listing, please either send a git p
 		Added extra manual annotated information for each individual word.
 
 
-- Various small lexicons contributed by N. Karmani Ben Moussa as part of her PhD thesis work, last updated August 2016, [link](https://github.com/NadiaBMKarmani)
+- Various small lexicons contributed by N. Karmani Ben Moussa as part of her PhD thesis work, last updated August 2016. [link](https://github.com/NadiaBMKarmani)
 
-- AOC: Arabic online commentary dataset by Omar Zaidan, last updated August 2012, https://github.com/sjeblee/AOC
+- AOC: Arabic online commentary dataset by Omar Zaidan, last updated August 2012. [link](https://github.com/sjeblee/AOC)
 
 	  The AOC dataset was created by crawling the websites of three Arabic newspapers,
 	  and extracting online articles and readers' comments.  The readers' comments are
@@ -257,9 +257,6 @@ In Journal of King Saud University - Computer and Information Sciences, vol. 29,
 - N. B. M. Karmani, H. Soussou and A. M. Alimi, "Intelligent Tunisian Arabic morphological analyzer,"
 In IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA), Agadir, 2016, pp. 1-8, 2016.
 [link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7945666&isnumber=7945610)
-
-	Keywords: expert systems;information retrieval;Internet;natural language processing;intelligent Tunisian Arabic morphological analyzer;Internet content;financial environments;social environments;political environments;economic environments;Web 2.0 monitoring;natural language processing tools;Tunisian Arabic processing tools;Tunisian Internet users;words morphemes;grammatical labels;expert system;aebWordNet;Tunisian Arabic lexical dictionary;morphemes decomposition;morphemes labeling;Morphology;Dictionaries;Web 2.0;Expert systems;Labeling;Buildings;Arabic dialect;Tunisian Arabic;Natural language processing;Morphological analyzer;Tokenizer;Artificial Intelligence;Expert system;aebWordNet;Tunisian Arabic lexical dictionary,
-
 
 - A. Abdelali, K. Darwish, N. Durrani, and H. Mubarak, "A Fast and Furious Segmenter for Arabic",
 In Proceedings of NAACL-HLT 2016 (Demonstrations), pages 11–16, 2016.
